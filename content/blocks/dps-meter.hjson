@@ -1,0 +1,12 @@
+size: 3
+category: effect
+requirements:[]
+update: true
+health: 10000
+configurable: true
+rebuildable: false
+placeableLiquid: true 
+floating: true
+priority: turret
+#flags: {set:[unitModifier]}
+unitCapModifier: 1000
